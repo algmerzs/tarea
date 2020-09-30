@@ -1,0 +1,2 @@
+color principal: #F9A8C6
+secundario: #4F4E4E
